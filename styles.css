@@ -39,3 +39,8 @@ footer{
 	text-align: center;
 
 }
+#gear{
+	 max-width: 100%;
+  height: auto;
+  min-width: 300px;
+}
