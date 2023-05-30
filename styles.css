@@ -30,9 +30,13 @@ h1, h2, h3, h4{
 }
  ul {
      text-align: center;
+     font-size: 22pt 
+
 }
  li {
      display: inline-block;
+           font-size: 22pt 
+
 }
  footer{
      text-align: center;
