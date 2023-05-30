@@ -45,8 +45,12 @@ h1, h2, h3, h4{
      max-width: 50%;
      height: auto;
      min-width: 300px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
 }
 figcaption{
      background-color: white;
       color: black;
+     text-align: center;
 }
