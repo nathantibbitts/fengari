@@ -33,7 +33,7 @@ h1, h2, h3, h4{
      mix-blend-mode: difference;
      color: white;
 }
- box.footer{
+ footer{
      text-align: center;
      mix-blend-mode: difference;
      background-color: black;
