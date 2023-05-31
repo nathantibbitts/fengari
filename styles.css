@@ -28,12 +28,13 @@ h1, h2, h3, h4{
 }
  p{
      text-align: center;
-     font-size: 22pt 
+     font-size: 22pt `
      mix-blend-mode: difference;
 }
- footer{
+ box.footer{
      text-align: center;
      mix-blend-mode: difference;
+     background-color: black;
 
 
 }
