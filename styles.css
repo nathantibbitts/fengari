@@ -1,15 +1,14 @@
 h1, h2, h3, h4{
      text-align: center;
-	color:white;
+     color:white;
      mix-blend-mode: difference;
-
 }
  body{
      background-image: url(faengari.jpg);
-      background-repeat: no-repeat;
-       background-attachment: fixed;
-       background-size: cover;
-      color: white;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     color: white;
 }
  div{
      text-align: center;
@@ -37,8 +36,44 @@ h1, h2, h3, h4{
      text-align: center;
      mix-blend-mode: difference;
      background-color: black;
-
-
+}
+ h1, h2, h3, h4{
+     text-align: center;
+     color:white;
+     mix-blend-mode: difference;
+}
+ body{
+     background-image: url(faengari.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+ div{
+     text-align: center;
+}
+ a{
+     text-decoration: none;
+     font-size: 23pt;
+     color: white;
+}
+ #banner{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 100%;
+     height: auto;
+     min-width: 300px;
+}
+ p{
+     text-align: center;
+     font-size: 22pt ` mix-blend-mode: difference;
+}
+ footer{
+     text-align: center;
+}
+ box.footer{
+     mix-blend-mode: difference;
+     background-color: black;
 }
  .gear{
      max-width: 50%;
@@ -48,12 +83,28 @@ h1, h2, h3, h4{
      margin-left: auto;
      margin-right: auto;
 }
-.icon{
-    height:24px;
-    width:24px;
+ .icon{
+     height:24px;
+     width:24px;
 }
-figcaption{
+ figcaption{
      text-align: center;
      mix-blend-mode: difference;
-
 }
+ .gear{
+     max-width: 50%;
+     height: auto;
+     min-width: 300px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+ .icon{
+     height:24px;
+     width:24px;
+}
+ figcaption{
+     text-align: center;
+     mix-blend-mode: difference;
+}
+ 
