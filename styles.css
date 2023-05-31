@@ -1,6 +1,8 @@
 h1, h2, h3, h4{
-     background-color: #303030;
      text-align: center;
+	color:white;
+     mix-blend-mode: difference;
+
 }
  body{
      background-image: url(faengari.jpg);
@@ -9,7 +11,6 @@ h1, h2, h3, h4{
        background-size: cover;
 }
  div{
-     background-color: #303030;
      text-align: center;
 }
  a{
@@ -28,9 +29,13 @@ h1, h2, h3, h4{
  p{
      text-align: center;
      font-size: 22pt 
+     mix-blend-mode: difference;
 }
  footer{
      text-align: center;
+     mix-blend-mode: difference;
+
+
 }
  .gear{
      max-width: 50%;
@@ -46,4 +51,6 @@ h1, h2, h3, h4{
 }
 figcaption{
      text-align: center;
+     mix-blend-mode: difference;
+
 }
