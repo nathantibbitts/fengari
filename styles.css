@@ -29,8 +29,9 @@ h1, h2, h3, h4{
 }
  p{
      text-align: center;
-     font-size: 22pt `
+     font-size: 22pt;
      mix-blend-mode: difference;
+     color: white;
 }
  box.footer{
      text-align: center;
